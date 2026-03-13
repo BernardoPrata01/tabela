@@ -1,0 +1,43 @@
+* {box-sizing: border-box;
+  margin: 0;}
+  
+  table {width: 100%;
+  height: 100vh;}
+  
+  .elemento{border: solid;}
+  
+  td{
+      width: 5%;
+      height: 8vh;
+  }
+  .cor1{
+      background-color: rgb(94, 255, 0);
+  }
+  .cor2{
+      background-color: rgb(255, 196, 0);
+  }
+  .cor3{
+      background-color: rgb(247, 235, 80);
+  }
+  .cor4{
+  background-color: rgb(250, 40, 40);
+  }
+  .cor5{
+      background-color: rgb(100, 226, 235);
+  }
+  .cor6{
+      background-color: rgb(29, 211, 120);
+  }
+  .cor7{
+      background-color: rgb(43, 43, 243);
+  }
+  .cor8{
+      background-color: rgb(61, 161, 243);
+  }
+  .cor9{
+      background-color: rgb(230, 51, 149);
+     
+  }
+  .cor10{ background-color: rgb(41, 77, 194);
+  }
+     
